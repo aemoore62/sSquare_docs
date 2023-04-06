@@ -1,5 +1,5 @@
 sSquared-Tab
-===
+=====
 
 Concept Definition
 ------------
