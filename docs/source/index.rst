@@ -4,8 +4,7 @@ Share Science
 **Share Science** (sSquared) is a framework that targets complex
 descriptions of scientific experiments.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`conceptual_model` section for further information.
 
 .. note::
 
@@ -16,5 +15,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   conceptual_model
+   ssquared_tab
